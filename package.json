@@ -1,0 +1,23 @@
+{
+  "name": "@gaito/experiments",
+  "version": "0.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"no tests\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gaito/experiments.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gaito/experiments/issues"
+  },
+  "homepage": "https://github.com/Gaito/experiments#readme",
+  "dependencies": {
+    "@kseirin/web-builder": "0.0.0",
+    "gulp": "^4.0.0"
+  }
+}
