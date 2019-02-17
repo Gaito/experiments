@@ -1,5 +1,5 @@
 {
-  "name": "@gaito/experiments",
+  "name": "@kseirin/experiments",
   "version": "0.0.0",
   "description": "",
   "main": "src/app.js",
@@ -8,16 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Gaito/experiments.git"
+    "url": "git+https://github.com/kseirin/experiments.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Gaito/experiments/issues"
+    "url": "https://github.com/kseirin/experiments/issues"
   },
-  "homepage": "https://github.com/Gaito/experiments#readme",
+  "homepage": "https://github.com/kseirin/experiments#readme",
   "dependencies": {
-    "@kseirin/web-builder": "0.0.0",
-    "gulp": "^4.0.0"
+    "@kseirin/web-builder": "^0.0.2"
   }
 }
